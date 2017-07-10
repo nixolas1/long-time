@@ -1,0 +1,20 @@
+
+
+body {
+  background: #222;
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Exo', sans-serif;
+  font-family: 'Comfortaa', cursive;
+}
+
+#canvas {
+  display: block;
+  /* margin: 50px auto 0; */
+  /* border: 1px solid #fff; */
+  width: 100vw;
+  height: 100vh;
+  background: #ccc;
+}
